@@ -8,7 +8,7 @@
 
 SurroundYou-ECR is a production-grade, event-driven audio processing microservice that transforms stereo audio into immersive 8D spatial audio. Built to run on AWS Fargate and triggered via Amazon EventBridge, this service represents the compute-intensive backend of the SurroundYou platform.
 
-🔗 **Main Application Repository:** [SurroundYou Frontend & API](https://github.com/your-username/SurroundYou)
+🔗 **Main Application Repository:** [SurroundYou Frontend & API](https://github.com/itxadii/SurroundYou)
 
 ---
 
@@ -697,7 +697,7 @@ Cloud & DevOps Engineer
 
 ## 🔗 Related Resources
 
-- [Main SurroundYou Repository](https://github.com/your-username/SurroundYou)
+- [Main SurroundYou Repository](https://github.com/itxadii/SurroundYou)
 - [AWS Fargate Documentation](https://docs.aws.amazon.com/fargate/)
 - [Pedalboard by Spotify](https://github.com/spotify/pedalboard)
 - [8D Audio: The Science](https://example.com/8d-audio-explained)
